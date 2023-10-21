@@ -1,0 +1,26 @@
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+Staged/
+DerivedDataCache/
+.vscode/
+*.log
+*.sln
+*.xcodeproj
+*.opendb
+*.db
+*.VC.db
+*.opensdf
+*.sdf
+*.suo
+*.bak
+*.tmp
+*.swp
+*.user
+*.lock
+*.pyc
+*.class
+*.cd
+*.pdb
+*.ipch
