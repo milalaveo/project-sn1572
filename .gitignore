@@ -1,10 +1,10 @@
 # Unreal Engine
-Binaries/
-Intermediate/
-Saved/
-Staged/
-DerivedDataCache/
-.vscode/
+Binaries
+Intermediate
+Saved
+Staged
+DerivedDataCache
+.vscode
 *.log
 *.sln
 *.xcodeproj
